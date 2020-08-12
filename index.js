@@ -18,4 +18,4 @@ function increment(n) {
 function decrement(n) {
   return (n - 1)
 }
-parseInt('n', 10)
+function parseInt('n', 10)
