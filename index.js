@@ -18,7 +18,5 @@ function increment(n) {
 function decrement(n) {
   return (n - 1)
 }
-var n = 20
-function makeInt(n) {
-  return parseInt('n', 10)
+ parseInt('n', 10)
 }
