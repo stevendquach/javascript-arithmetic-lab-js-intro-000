@@ -3,7 +3,7 @@ function add(a,b) {
   return (a + b) // 81
 }
 function subtract(a,b){
-  return (a - b) // 20
+  return (b - a) // 20
 }
 function multiply() {
   2 * 3.4 // 6.8 (there's that floating-point arithmetic again...)
