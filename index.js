@@ -18,6 +18,6 @@ function increment(n) {
 function decrement(n) {
   return (n - 1)
 }
-function makeInt(269 {
+function makeInt(269) {
   return parseInt('269', 10)
 }
