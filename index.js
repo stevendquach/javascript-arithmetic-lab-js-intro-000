@@ -1,5 +1,5 @@
-function add() {
-  1 + 80 // 81
+function add(a,b) {
+  a + b // 81
 }
 function subtract(){
   60 - 40 // 20
