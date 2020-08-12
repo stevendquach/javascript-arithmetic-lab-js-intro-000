@@ -13,5 +13,5 @@ function divide(a,b) {
   return (a / b) // 2
 }
 increment(n) {
-  return n += 1
+  return (n += 1)
 }
